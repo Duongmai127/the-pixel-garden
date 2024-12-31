@@ -1,6 +1,6 @@
 ---
 title: "This is a home page"
-draft: 
+draft: false
 tags: 
 topics: 
 reference:
